@@ -1,0 +1,21 @@
+personID	name	isDealer	currentNum
+1	Lorraine Blything	FALSE	5000
+2	Ella Brimilcome	TRUE	23
+3	Gabriella Grimsdale	FALSE	2500
+4	Esther Bonafant	TRUE	11
+5	Cyndia Grinyer	TRUE	2
+6	Kean Kindall	FALSE	1125
+7	Emelda Abercromby	FALSE	9934
+8	Benedicto Pluvier	FALSE	7850
+9	Moritz Linck	FALSE	4001
+10	Herb Hubbucke	FALSE	750
+11	Poppy Miskelly	TRUE	49
+12	Lena Toping	TRUE	87
+13	Colby Whytock	FALSE	500
+14	Sanders Chalder	FALSE	500
+15	De Keems	FALSE	495
+16	Bryanty Snaddin	FALSE	3999
+17	Mela Hallowes	FALSE	5623
+18	Huey Giddins	TRUE	450
+19	Emmi Benbough	TRUE	0
+20	Shamus Wallege	FALSE	22976
