@@ -1,0 +1,10 @@
+menuId	restaurantId	meal
+1	1	Breakfast
+2	1	Lunch
+3	1	Dinner
+4	2	Breakfast
+5	2	Lunch
+6	3	Breakfast
+7	3	Lunch
+8	3	Dinner
+9	4	Lunch

@@ -1,0 +1,5 @@
+restaurantId	restaurantName	ownerName
+1	Midnight Munchies	Sally Right
+2	Early Bird	Tom Ryan
+3	All Day Diner	Cindy LuWho
+4	Tid Byts	Bobby Digital

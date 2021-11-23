@@ -1,0 +1,31 @@
+menuItemId	menuId	name
+1	1	Eggs
+2	1	Toast
+3	1	Ham
+4	1	Grits
+5	1	Coffee
+6	2	BLT
+7	2	Salad
+8	3	Steak
+9	3	Pot Roast
+10	3	Spaghetti & Meatballs
+11	4	Eggs & Toast
+12	4	Coffee
+13	5	Fish & Chips
+14	5	Soda
+15	6	Eggs & Toast
+16	6	Coffee
+17	6	Goetta
+18	7	Salad
+19	7	Ham & Cheese Hoggie
+20	7	Soup & Salad
+21	7	Tuna Salad
+22	8	Roast Prime Rib
+23	8	Seafood Trio
+24	8	Filet Mignon
+25	8	Lamb Chops
+26	9	Green Eggs & Ham
+27	9	Frog Legs
+28	9	Kimchi
+29	9	Stuffed Cabbage
+30	9	Sparkling Water
