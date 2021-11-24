@@ -1,3 +1,3 @@
-# CSE-271
+# CSE-271-Object-Oriented Programming
 
-Projects worked/examined on in Java for my Object-Oriented Programming course.
+Projects worked/examined on in Java for my OOP course.
